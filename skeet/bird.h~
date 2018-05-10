@@ -1,0 +1,11 @@
+#pragma once
+
+#include "flyingObject.h"
+
+class Bird : public FlyingObject
+{
+public:
+	Bird();
+	virtual void draw() = 0;
+	virtual int hit() = 0;
+};

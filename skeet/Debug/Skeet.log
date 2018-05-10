@@ -1,0 +1,16 @@
+﻿  uiInteract.cpp
+  Generating Code...
+  Compiling...
+  bullet.cpp
+c:\users\alec otterson\documents\visual studio 2015\projects\skeet\skeet\bullet.cpp(12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\alec otterson\documents\visual studio 2015\projects\skeet\skeet\bullet.cpp(13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  game.cpp
+c:\users\alec otterson\documents\visual studio 2015\projects\skeet\skeet\game.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\alec otterson\documents\visual studio 2015\projects\skeet\skeet\game.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\alec otterson\documents\visual studio 2015\projects\skeet\skeet\game.cpp(316): warning C4018: '<': signed/unsigned mismatch
+  driver.cpp
+  Generating Code...
+  Skeet.vcxproj -> C:\Users\Alec Otterson\Documents\Visual Studio 2015\Projects\Skeet\Debug\Skeet.exe
+  Skeet.vcxproj -> C:\Users\Alec Otterson\Documents\Visual Studio 2015\Projects\Skeet\Debug\Skeet.pdb (Partial PDB)

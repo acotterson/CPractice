@@ -1,0 +1,12 @@
+#include "flyingObject.h"
+
+void FlyingObject::advance()
+{
+	_location.setX(_location.getX() + _velocity.getDx());
+	_location.setY(_location.getY() + _velocity.getDy());
+}
+
+void FlyingObject::kill()
+{
+	_alive = false;
+}
